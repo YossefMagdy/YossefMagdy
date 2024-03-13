@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YossefMagdy)
+- 👨‍💻 My Cv [https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing]
 
 
 <h3 align="left">Connect with me:</h3>
