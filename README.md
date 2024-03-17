@@ -3,7 +3,8 @@
 
 <h3 align="center">Frontend Developer Angular</h3>
 
-- 🌱 I’m currently learning Angular**
+- 💬 Ask me about Angular
+- 📫 How to reach me Y.f.magdy@gmail.com
 
 - 👨‍💻 My Cv [https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing]
 
