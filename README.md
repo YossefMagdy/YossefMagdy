@@ -3,12 +3,11 @@
 
 <h3 align="center">Frontend Developer Angular</h3>
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://yossefmagdy.vercel.app))
 - 💬 Ask me about Angular
 - 📫 How to reach me Y.f.magdy@gmail.com
-
-- 👨‍💻 My Cv [https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing]
-
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing))
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
