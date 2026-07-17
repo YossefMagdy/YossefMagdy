@@ -22,7 +22,7 @@
 
 - Email: Y.f.magdy@gmail.com
 
-## 📄 Resume
+## 📄 [Resume](https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing)
 
 - [View Resume](https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing)
 
