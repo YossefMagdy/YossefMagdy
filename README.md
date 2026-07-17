@@ -1,13 +1,30 @@
                                                          
 <h1 align="center">Hi 👋, I'm Yossef Magdy</h1>                                  
 
-<h3 align="center">Frontend Developer </h3>
+<h3 align="center">Frontend Developer | Learning Java & Spring Boot </h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yossefmagdy.vercel.app)
-- 💬 Ask me about Angular and React
-- 📫 How to reach me Y.f.magdy@gmail.com
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing)
+## 📚 Currently Learning
 
+- ☕ Core Java
+- 🍃 Spring Boot
+- 🗄️ SQL
+
+## 👨‍💻 Portfolio
+
+- All of my projects are available at [Portfolio](https://yossefmagdy.vercel.app)
+
+## 💬 Ask Me About
+
+- Angular
+- React
+
+## 📫 Contact Me
+
+- Email: Y.f.magdy@gmail.com
+
+## 📄 Resume
+
+- [View Resume](https://drive.google.com/file/d/1TzUdJZINNbWVVIKZuZ9ACuHFDcV-RfC9/view?usp=sharing)
 
 
 <div align="center">
